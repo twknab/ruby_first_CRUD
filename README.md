@@ -1,24 +1,7 @@
-# README
+# Ruby on Rails CRUD App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic CRUD application powered by rails. This application was created as a learning experience and is described in full in the Rails "Getting Started" guide, located here:
 
-Things you may want to cover:
+[Rails Getting Started Guide](http://guides.rubyonrails.org/getting_started.html)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
